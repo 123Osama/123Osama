@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Osama
 #### Student,Department of CSE,CUET
 
-Skills: Python | Data Cleaning | Data Visualization| Data Analysis
+Skills: Python | Data Cleaning | Data Visualization| Data Analysis| Machine Learning| Deep Learning| NLP
 
 - 🔭 I’m currently working on Data cleaning,Data visualizaton ,Data Analysis 
 - 🌱 I’m currently learning Data Science,Machine Learning,Deep Learning,NLP 
