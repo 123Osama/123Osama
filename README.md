@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Osama
-#### Student,Department of CSE,CUET
+#### B.Sc. Graduated from the Department of CSE, CUET
 
 Skills: Python | Data Cleaning | Data Visualization| Data Analysis| Machine Learning| Deep Learning| NLP
 
-- 🔭 I’m currently working on Data cleaning,Data visualizaton ,Data Analysis 
-- 🌱 I’m currently learning Data Science,Machine Learning,Deep Learning,NLP 
+- 🔭 I’m currently working on Data cleaning, Data visualization, and Data Analysis 
+- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, and NLP 
 - 📫 How to reach me: You can reach me through this email: osamasohag39@gmail.com 
 
 
